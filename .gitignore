@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+final_audit_report.html
+final_audit_report.pdf
+uploaded_images/
+reports/
+.env
